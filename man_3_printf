@@ -37,7 +37,7 @@ The argument passed is expected to be an array of characters, which are printed
 character by character, not including the terminating NULL byte.
 
 :SS i
-The arguement is converted from integer to character and printed character by
+The arguement is converted from integer to character and printed character by 
 character.
 
 :SS d
