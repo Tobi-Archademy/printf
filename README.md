@@ -33,4 +33,4 @@
 			      * ```va_copy``` (man 3 va_copy)
 			      	      * ```va_arg``` (man 3 va_arg)
 
-**This printf project is mandatory at ALX schools**
+***This printf project is mandatory at ALX schools***
